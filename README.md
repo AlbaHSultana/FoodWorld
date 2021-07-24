@@ -7,6 +7,9 @@ As my website isn’t just an online recipe book, but rather a magazine, I had t
 
 Feel free to check out my wesbite here:  https://albahsultana.github.io/FoodWorld/ 
 
+<img width="749" alt="foodworldweb" src="https://user-images.githubusercontent.com/60260285/126879082-848227ae-558e-4eda-888c-1f155eb453c6.png">
+
+
 # Progamming languages/libraries used to build FoodWorld?
 
 In short: HTML5, CSS3, JavaScript and Bootstrap.
