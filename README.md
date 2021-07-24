@@ -5,6 +5,8 @@ This online magazine’s main purpose is to inform readers about cooking, by pro
 
 As my website isn’t just an online recipe book, but rather a magazine, I had to include some type on entertainment for the audience, which I implemented by including quizzes, and celebrity chef interviews
 
+Feel free to check out my wesbite here:  https://albahsultana.github.io/FoodWorld/ 
+
 # Progamming languages/libraries used to build FoodWorld?
 
 In short: HTML5, CSS3, JavaScript and Bootstrap.
@@ -22,4 +24,4 @@ Most importantly, I learn to use CSS media queries to make the website be respon
 - I learnt to write simple JavaScript from scratch, for example, I had created a search bar which I wanted to be functional for the users, so I created a function which had an “if ” statement inside it to specify, if any of the particular works are entered, a specific page should be opened, and “else” it should display a message saying that the search couldn’t be found.
 
 # Why was FoodWorld created?
-I created it FoodWorld as part of my coursework, which was due during my 1st Year of my CS degree at Goldsmiths University of London.
+I created FoodWorld as part of my Web Development module coursework, which was due during my 1st Year of my CS degree at Goldsmiths University of London.
